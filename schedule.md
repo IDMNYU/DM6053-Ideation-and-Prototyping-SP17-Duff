@@ -165,9 +165,9 @@ Class
     <tr>
         <td>6</td>    
         <td><p>Feb 27</p>
-        
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+        <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments.</li>
         <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
         <ul>
         <li>Team Annotated Bibliography Draft</li>
