@@ -152,7 +152,7 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 *   5% [Narrative Timeline of Influences](narrative_timeline.md)
 *   10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
 *   12% [Constant Input Choices](constant_input_choices.md)
-*   14% [Process Website](process_website.md)
+*   16.5% [Process Website](process_website.md)
 *   16% [Future Dystopia / Utopia Project](future.md)
 *   28% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 
