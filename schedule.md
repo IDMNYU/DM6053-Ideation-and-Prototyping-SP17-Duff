@@ -120,7 +120,7 @@
     </tr>
     <tr>
         <td>8</td>     
-        <td valign="top"><strong><p>Mar 13</p>
+        <td valign="top"><p>Mar 13</p>
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
@@ -227,10 +227,10 @@
     </tr>
     <tr>
         <td>16</td>
-        <td><p>May 8</p>
+        <td><strong><p>May 8</p>
         <ul>
         <li><a href="future.md">Future Dystopia / Utopia Project DUE</a></li>
-        </ul> 
+        </ul></strong>
         </td>
 </tr>
 <tr>
