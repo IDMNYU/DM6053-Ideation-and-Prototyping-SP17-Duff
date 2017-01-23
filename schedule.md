@@ -53,8 +53,8 @@
         <td><p>Feb 6</p>
         Homework
         <ul>
-        <li>Complete <a href="input_map.md">Input Maps</a> and post to process website</li>
-        <li>Post your <a href="constant_input_choices.md">constant input</a> details (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.)</li>
+        <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website</li>
+        <li>Post your <a href="constant_input_choices.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.)</li>
         <li>Phase 1: Discovery / Inspiration / Process</li>
             <ul>
             <li><a href="personal_inventory.md">Personal Inventories</a></li>
@@ -76,6 +76,10 @@
       <ul>
         <li>Review Readings</li>
         <li>Review <a href="input_map.md">Input Maps</a></li>
+        <ul>
+            <li>Pair students for Classmate Discovery</li>
+            <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
+            </ul>
         </ul>
   </ul></td>
     </tr>
@@ -99,17 +103,16 @@
 <li>Find 4-5 simple objects on the street, in a room, or in a drawer, etc. Place them in new contexts, combine them, play with them, misuse them -- What new ideas are suggested? Document on your process website.</li></ol> 
         </ul>
         <li>Phase 3: Design / Sketching / Mapping: <a href="classmate_discovery.md">Classmate Discovery</a></li>
-            <ul>
             
-            <li>Pair students for Classmate Discovery</li>
-            <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
-            </ul>
         
         </ul>
         Class
         <ul>
         <li>Watch Video: Finished Not Perfect by Jake Parker</li>
-        <li>Review Homework</li>
+<li>Discuss Everything is a Remix</li>
+<li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
+<li>Review Classmate Discoveries</li>
+</ul>
         </ul>
         </td>
     </tr>
