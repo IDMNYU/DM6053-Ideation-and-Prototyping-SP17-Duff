@@ -229,7 +229,6 @@ Class
                     </ul>
                 <li>Find 4-5 simple objects on the street, in a room, or in a drawer, etc. Place them in new contexts, combine them, play with them, misuse them -- What new ideas are suggested? Document on your process website.
                 </li></ol>
-                </ul>
         <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
         <ul>
         <li>Ideation continued</li>
