@@ -129,7 +129,7 @@ Class
 Class
 <ul>        
 <li>Review Homework</li>
-<li>Brainstorm Creators in order to select teams.</li>
+<li>Brainstorm Creators in order to select and fin teams.</li>
 <li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
   <ul>
   <li>Exchange contact info (phone, email, address)</li>
@@ -159,7 +159,6 @@ Class
         <ul>
         <li>Discuss Homework</li>
         <li>Discuss Text vs. Image Storyboard</li>
-        <li>Finalize Teams for <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a></li>
         </ul>
         </td>
     </tr>
