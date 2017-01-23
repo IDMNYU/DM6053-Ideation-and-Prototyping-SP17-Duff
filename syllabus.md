@@ -173,7 +173,7 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
-Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings, your laptops should not be used.
+Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing I&amp;P homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings, your laptops should not be used.
 
 
 ### ACADEMIC HONESTY
