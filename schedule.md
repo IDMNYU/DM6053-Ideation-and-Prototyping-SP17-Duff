@@ -49,7 +49,7 @@
         <td>3</td>    
         <td><p>Feb 6</p>
         <ul>
-        <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+        <li>Post your <a href="constant_input_choices.md">constant input</a> details (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.)</li>
         <li>Phase 1: Discovery / Inspiration / Process</li>
             <ul>
             <li><a href="personal_inventory.md">Personal Inventories</a></li>
@@ -58,9 +58,21 @@
             <li>Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
         </ul>
         <li>Post your <a href="process_website.md">process website</a> URL to the ip_fa16 slack channel</li>
+        <li>Read</li>
+  <ul>
+  <li>Rohde, Mike. “<a href="http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/">Sketching: the Visual Thinking Power Tool.</a>” A List Apart. January 25, 2011. </li>
+<li>Brown, Sunni. “<a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/" target="_blank">The Miseducation of the Doodle.</a>” A List Apart. January 25, 2011. </li>
         </ul>
-      
-        </td>
+      <li>Write</li>
+      <ul>
+      <li>After reading both articles... Between the two articles, Sketching: the Visual Thinking Power Tool and The Miseducation of the Doodle, write on your process website a reading response to the article that resonated with you the most. Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+      </ul>
+<li>Class</li>
+      <ul>
+        <li>Review Readings</li>
+        <li>Review Input Maps</li>
+        </ul>
+  </ul></td>
     </tr>
     <tr>
         <td>4</td>
@@ -83,8 +95,12 @@
         </ul>
         <li>Phase 3: Design / Sketching / Mapping: <a href="classmate_discovery.md">Classmate Discovery</a></li>
             <ul>
+            
+            <li>Pair students for Classmate Discovery</li>
             <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
-            </ul></ul>
+            </ul>
+        <li>Watch Video: Finished Not Perfect by Jake Parker</li>
+        </ul>
         </td>
     </tr>
     <tr>
@@ -216,6 +232,7 @@
         <td>13</td>  
         <td><p>Apr 17</p>
         <ul>
+        li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
         <ul>
         <li>Lo-fi Prototype Draft</li>
