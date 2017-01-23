@@ -21,13 +21,13 @@
         <td>2</td> 
         <td valign="top"><p>Jan 30</p>
         <ul>
-        <li>Read Syllabus and Ask Questions about the course and syllabus during our first class</li>
+        <li>Read Syllabus and ask Questions about the course and syllabus during our first class</li>
         <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
         <li>Course and Student Introductions</li>
         <li>Overview of Course</li>
         <li>Phase 1: Discovery / Inspiration / Process:</li>
             <ul>
-            <li>Input Maps</li>
+            <li><a href="input_map.md">Input Maps</a></li>
             </ul>
         <li>Accept Slack Invitation when received</li>    
   </ul></td>
@@ -138,11 +138,11 @@
         <a href="week_8_detail.md">
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-        <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
+        <strong><li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
             <ul>
             <li>Final Annotated Bibliography DUE</li>
             <li>Final Research Paper DUE</li>
-            </ul>
+            </ul></strong>
         <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
             <ul>
             <li>Ideation</li></ul>
@@ -179,7 +179,7 @@
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
         <ul>
-        <li><strong>Storyboard Draft</li>
+        <li>Storyboard Draft</li>
         <li>(OPTIONAL) Lo-fi Prototype Draft</li>
         </ul>
         </ul>
@@ -192,7 +192,7 @@
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
             <ul>
-            <li><strong>Storyboard Draft</li>
+            <li>Storyboard Draft</li>
             <li>Lo-fi Prototype Draft</li>
             </ul>
         </ul>
@@ -236,9 +236,9 @@
 </tr>
 <tr>
 <td></td>
-<td><strong><p>May 9 (Tue), May 10 (Wed), May 11 (Thu), May 12 (Fri)</p>Final one on one appointments
+<td><strong><p>May 9 (Tue), May 10 (Wed), May 11 (Thu), or May 12 (Fri)</p>Final one on one appointments
 <ul>
-<li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
+<li>Schedule at <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
 <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a></li>
 </ul></strong></td>
 
