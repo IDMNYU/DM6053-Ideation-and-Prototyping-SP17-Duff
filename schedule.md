@@ -202,7 +202,7 @@
         <td>13</td>  
         <td><p>Apr 17</p>
         <ul>
-        <li><a href="future.md">Future Dystopia / Utopia Project</a></ul>
+        <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
         <ul>
         <li>Lo-fi Prototype Draft</li>
         </ul></ul>
@@ -212,7 +212,7 @@
         <td>14</td>    
         <td><p>Apr 24</p>
         <ul>
-        <li><a href="future.md">Future Dystopia / Utopia Project</a></ul>
+        <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
         <ul>
         <li>Hi-Fidelity Prototype Draft</li>
         </ul></ul></td>
@@ -221,7 +221,7 @@
         <td>15</td>     
         <td><p>May 1</p>
         <ul>
-        <li><a href="future.md">Future Dystopia / Utopia Project</a></ul>
+        <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
         <ul>
         <li>Hi-Fidelity Prototype Draft</li>
         </ul></ul></td>
