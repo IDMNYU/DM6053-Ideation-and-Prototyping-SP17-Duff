@@ -192,14 +192,6 @@ If you are student with a disability who is requesting accommodations, please co
 *   Digital Storage (Thumb Drives or External Hard Drive, Laptop, etc)
 
 
-### REQUIRED BOOKS
-
-*   [AIGA’s Ethnography Primer]([http://www.aiga.org/ethnography-primer/]) (available free online)
-*   [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
-*   _[Writing for Visual Thinkers: A Guide for Artists and Designers](https://www.amazon.com/Writing-Visual-Thinkers-Artists-Designers/dp/0321767454)_ by Andrea Marks.
-
-
-
 ### REQUIRED READINGS
 
 _The following list of required readings may be incomplete and is subject to change. Please see the course website for updates._
