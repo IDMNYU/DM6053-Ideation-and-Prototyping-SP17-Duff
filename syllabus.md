@@ -10,7 +10,7 @@
     
     Prerequisite: None
 
-####Gitbook Repository: https://deangela.gitbooks.io/here/content/
+####Gitbook Repository: TBD
 
 ####Course Management Site: http://bxmc.slack.com 
 
