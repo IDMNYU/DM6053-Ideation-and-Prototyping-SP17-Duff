@@ -207,10 +207,6 @@ _The following list of required readings may be incomplete and is subject to cha
 *   [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
 *   [Ira Glass on storytelling](http://www.youtube.com/watch?v=loxJ3FtCJJA)
 
-
-### REQUIRED SOFTWARE
-
-
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
 See Appendix
 
