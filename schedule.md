@@ -102,9 +102,20 @@ insights that occurred while watching, how it reflects your own process (or does
         <ul>
         <li>Do <strong>at least one</strong> of the following assignments:</li>
         </ul>
-Write your response to one of the following:
 
-<li>Research one or more of the following artists for inspiration and post your findings and response on your process website:</li>
+
+
+<ol>
+<li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
+<ul>
+<li>Ask the 5 why questions. Take notes.</li>
+<li>Write a narrative imagining how this interaction could be improved.</li>
+</ul>
+<li>For 3 to 5 days, record, snap, write down no less than 20 things each day that reveal themselves as appropriation material.</li>
+<ul><li>Pick one of these and use the SCAMPER Technique to come up with ideas for creating something new from each one.</li></ul>
+<li>Find 4-5 simple objects on the street, in a room, or in a drawer, etc. Place them in new contexts, combine them, play with them, misuse them -- What new ideas are suggested? Document on your process website.</li></ol> 
+        </ul>
+        <li>Research one or more of the following artists for inspiration and post your findings and response on your process website:</li>
 <ol>
 <li>Sherrie Levine</li> 
 <li>Marcel Duchamp</li>
@@ -116,16 +127,6 @@ Write your response to one of the following:
 <li>DJ Spooky</li>
 <li>The Bomb Squad</li>
 </ol>
-<ol>
-<li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
-<ul>
-<li>Ask the 5 why questions. Take notes.</li>
-<li>Write a narrative imagining how this interaction could be improved.</li>
-</ul>
-<li>For 3 to 5 days, record, snap, write down no less than 20 things each day that reveal themselves as appropriation material.</li>
-<ul><li>Pick one of these and use the SCAMPER Technique to come up with ideas for creating something new from each one.</li></ul>
-<li>Find 4-5 simple objects on the street, in a room, or in a drawer, etc. Place them in new contexts, combine them, play with them, misuse them -- What new ideas are suggested? Document on your process website.</li></ol> 
-        </ul>
         <li>Phase 3: Design / Sketching / Mapping: <a href="classmate_discovery.md">Classmate Discovery</a></li>
             
         
