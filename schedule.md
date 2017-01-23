@@ -92,25 +92,11 @@ Class
           <ul>
           <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
           <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
-          <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
-        insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
+          <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
           </ul>
         <li>Phase 1: Discovery / Inspiration</li>
             <ul>
-            <li>Do <strong>at least one</strong> of the following assignments:</li>
-                <ol>
-                <li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
-                    <ul>
-                    <li>Ask the 5 why questions. Take notes.</li>
-                    <li>Write a narrative imagining how this interaction could be improved.</li>
-                    </ul>
-                <li>For 3 to 5 days, record, snap, write down no less than 20 things each day that reveal themselves as appropriation material.</li>
-                    <ul>
-                    <li>Pick one of these and use the SCAMPER Technique to come up with ideas for creating something new from each one.</li>
-                    </ul>
-                <li>Find 4-5 simple objects on the street, in a room, or in a drawer, etc. Place them in new contexts, combine them, play with them, misuse them -- What new ideas are suggested? Document on your process website.
-                </li></ol>
-                </ul></ul>
+            </ul>
         <li>Research one or more of the following artists for inspiration and post your findings and response on your process website:</li>
 <ul>
 <li>Sherrie Levine</li> 
@@ -180,7 +166,6 @@ Class
     <tr>
         <td>7</td>     
         <td><p>Mar 6</p>
-      
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
@@ -189,8 +174,7 @@ Class
         <li>(if applicable) Animatic Draft</li>
         <li>(if applicable) Hybrid Animatic / Video Draft</li>
         </ul>
-        </ul>
-     
+        </ul>   
         </td>
     </tr>
     <tr>
@@ -209,7 +193,6 @@ Class
     <tr>
         <td>9</td>      
         <td><p>Mar 20</p>
-        
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <strong><li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
@@ -221,19 +204,32 @@ Class
             <ul>
             <li>Ideation</li></ul>
             </ul>
-        </ul>
-      
+        </ul>    
         </td>
-    </tr>
+</tr>
    <tr>
     <td></td><td><strong><p>Mar 31 (Fri)</p><i>Last Day to Withdraw</i></strong></td>
     </tr>
     <tr>
         <td>10</td>     
         <td><p>Mar 27</p>
-      
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+        <li>Watch <a href="https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008" target="_blank">Ira Glass on storytelling (all 4 parts)</a> and write a response to Ira Glass on Storytelling and post on your process website. Do not write a summary. In other words, do not regurgitate what he says. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+        <li>Do <strong>at least one</strong> of the following assignments:</li>
+                <ol>
+                <li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
+                    <ul>
+                    <li>Ask the 5 why questions. Take notes.</li>
+                    <li>Write a narrative imagining how this interaction could be improved.</li>
+                    </ul>
+                <li>For 3 to 5 days, record, snap, write down no less than 20 things each day that reveal themselves as appropriation material.</li>
+                    <ul>
+                    <li>Pick one of these and use the SCAMPER Technique to come up with ideas for creating something new from each one.</li>
+                    </ul>
+                <li>Find 4-5 simple objects on the street, in a room, or in a drawer, etc. Place them in new contexts, combine them, play with them, misuse them -- What new ideas are suggested? Document on your process website.
+                </li></ol>
+                </ul>
         <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
         <ul>
         <li>Ideation continued</li>
@@ -241,14 +237,12 @@ Class
         <li>Sketching and Mapping</li>
         <li>Secondary Research</li>
         </ul>
-        </ul>
-      
+        </ul>  
         </td>
     </tr>
     <tr>
         <td>11</td>   
-        <td><p>Apr 3</p>
-        
+        <td><p>Apr 3</p>      
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 

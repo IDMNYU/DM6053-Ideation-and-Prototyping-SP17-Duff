@@ -145,11 +145,11 @@ There will be discrete team and individual exercises and projects that require y
 Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
 
 ##### Quantitative Grading Overview
-
+*   2.5% [Input Map](input_map.md)
+*   2.5% [Museum or gallery visit, talk, or meetup](visit_talk_meetup.md)
+* 2.5% [Personal Inventory](personal_inventory.md)
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
-*   5% [Input Map](input_map.md)
 *   5% [Narrative Timeline of Influences](narrative_timeline.md)
-*   5% [Museum or gallery visit, talk, or meetup](visit_talk_meetup.md)
 *   10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
 *   12% [Constant Input Choices](constant_input_choices.md)
 *   14% [Process Website](process_website.md)
@@ -163,7 +163,7 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 *   **B+ Very Good** 
 *   **B Good** (Solid work, though not of the highest level)
 *   **B-**
-*   **C+ ** (A little above average)
+*   **C+** (A little above average)
 *   **C Satisfactory** (Average; Satisfies course requirements)
 *   **C- Below average** (but passing)	 
 *   **D+ Poor Work** (but passing)	 
@@ -204,10 +204,10 @@ If you are student with a disability who is requesting accommodations, please co
 
 _The following list of required readings may be incomplete and is subject to change. Please see the course website for updates._
 
-*   Brown, Sunni. “[The Miseducation of the Doodle.](http://www.alistapart.com/articles/the-miseducation-of-the-doodle/)” A List Apart. January 25, 2011\.
-*   Peavey, Fran. “[Strategic Questioning: An approach to creating personal and social change.](http://www.context.org/iclib/ic40/peavey)” In Context, Spring 1995\.
+*   Brown, Sunni. “[The Miseducation of the Doodle.](http://www.alistapart.com/articles/the-miseducation-of-the-doodle/)” A List Apart. January 25, 2011.
+*   Peavey, Fran. “[Strategic Questioning: An approach to creating personal and social change.](http://www.context.org/iclib/ic40/peavey)” In Context, Spring 1995.
 *   Rohde, Mike. “[Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/)” A List Apart. January 25, 2011\. 
-*   Trollbäck, Jakob. “[One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/)” HOW Design. 23 Jan. 2008\. 
+*   Trollbäck, Jakob. “[One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/)” HOW Design. 23 Jan. 2008. 
 
 
 ### REQUIRED MEDIA
@@ -237,6 +237,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 * [Input Map](input_map.md)
 * [Process Website](process_website.md)
 * [Narrative Timeline of Influences](narrative_timeline.md)
+* [Personal Inventory](personal_inventory.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md) 
 * [Museum or gallery visit, talk, or meetup](visit_talk_meetup.md)
