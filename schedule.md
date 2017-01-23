@@ -22,6 +22,7 @@
         <td valign="top"><p>Jan 30</p>
         <ul>
         <li>Read Syllabus and Ask Questions about the course and syllabus during our first class</li>
+        <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
         <li>Course and Student Introductions</li>
         <li>Overview of Course</li>
         <li>Phase 1: Discovery / Inspiration / Process:</li>
@@ -30,14 +31,9 @@
             </ul>
         <li>Accept Slack Invitation when received</li>    
   </ul></td>
-  <td valign="top">
-  <ul>
-  <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
-        </ul>
-        </td>
     </tr>
     <tr>
-<td><td><strong><p>Feb 4 (Sun)</p><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td><td></td>
+<td><td><strong><p>Feb 4 (Sun)</p><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td>
     </tr>
     <tr>
         <td>3</td>    
@@ -156,7 +152,7 @@
         </td>
     </tr>
    <tr>
-    <td></td><td><strong><p>Mar 31 (Fri)</p><i>Last Day to Withdraw</i></strong></td><td></td>
+    <td></td><td><strong><p>Mar 31 (Fri)</p><i>Last Day to Withdraw</i></strong></td>
     </tr>
     <tr>
         <td>10</td>     
@@ -245,7 +241,7 @@
 <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
 <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a></li>
 </ul></strong></td>
-<td></td>
+
 </tr>
 </table>
 
