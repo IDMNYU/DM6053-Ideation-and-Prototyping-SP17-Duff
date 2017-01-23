@@ -109,7 +109,8 @@ Class
                     <li>Pick one of these and use the SCAMPER Technique to come up with ideas for creating something new from each one.</li>
                     </ul>
                 <li>Find 4-5 simple objects on the street, in a room, or in a drawer, etc. Place them in new contexts, combine them, play with them, misuse them -- What new ideas are suggested? Document on your process website.
-                </li></ol></ul>
+                </li></ol>
+                </ul></ul>
         <li>Research one or more of the following artists for inspiration and post your findings and response on your process website:</li>
 <ol>
 <li>Sherrie Levine</li> 
