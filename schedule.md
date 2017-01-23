@@ -69,15 +69,13 @@
   <ul>
   <li>Rohde, Mike. “<a href="http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/">Sketching: the Visual Thinking Power Tool.</a>” A List Apart. January 25, 2011. </li>
 <li>Brown, Sunni. “<a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/" target="_blank">The Miseducation of the Doodle.</a>” A List Apart. January 25, 2011. </li>
-        </ul>
-      <li>Write</li>
-      <ul>
       <li>After reading both articles... Between the two articles, Sketching: the Visual Thinking Power Tool and The Miseducation of the Doodle, write on your process website a reading response to the article that resonated with you the most. Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
       </ul>
       </ul>
 Class
     <ul>
     <li>Review Homework</li>
+    <li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
         <li>Pair students for Classmate Discovery</li>
         <ul>
         <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
@@ -91,26 +89,25 @@ Class
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li>Watch the following, write a response, and post to your process website</li>
-  <ul>
-  <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
-  <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
-  <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
-insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
-  </ul>
-<li>Phase 1: Discovery / Inspiration</li>
-        <ul>
-        <li>Do <strong>at least one</strong> of the following assignments:</li>
-        
-<ol>
-<li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
-<ul>
-<li>Ask the 5 why questions. Take notes.</li>
-<li>Write a narrative imagining how this interaction could be improved.</li>
-</ul>
-<li>For 3 to 5 days, record, snap, write down no less than 20 things each day that reveal themselves as appropriation material.</li>
-<ul><li>Pick one of these and use the SCAMPER Technique to come up with ideas for creating something new from each one.</li></ul>
-<li>Find 4-5 simple objects on the street, in a room, or in a drawer, etc. Place them in new contexts, combine them, play with them, misuse them -- What new ideas are suggested? Document on your process website.</li></ol> 
-        </ul>
+          <ul>
+          <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
+          <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
+          <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
+        insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
+          </ul>
+        <li>Phase 1: Discovery / Inspiration</li>
+            <ul>
+            <li>Do <strong>at least one</strong> of the following assignments:</li>
+                <ol>
+                <li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
+                <ul>
+                <li>Ask the 5 why questions. Take notes.</li>
+                <li>Write a narrative imagining how this interaction could be improved.</li>
+                </ul>
+                <li>For 3 to 5 days, record, snap, write down no less than 20 things each day that reveal themselves as appropriation material.</li>
+                <ul><li>Pick one of these and use the SCAMPER Technique to come up with ideas for creating something new from each one.</li>
+                <li>Find 4-5 simple objects on the street, in a room, or in a drawer, etc. Place them in new contexts, combine them, play with them, misuse them -- What new ideas are suggested? Document on your process website.
+                </li></ol>
         <li>Research one or more of the following artists for inspiration and post your findings and response on your process website:</li>
 <ol>
 <li>Sherrie Levine</li> 
@@ -129,7 +126,7 @@ insights that occurred while watching, how it reflects your own process (or does
 Class
 <ul>        
 <li>Discuss Everything is a Remix</li>
-<li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
+
 <li>Review Classmate Discoveries</li>
 </ul>
         </ul>
