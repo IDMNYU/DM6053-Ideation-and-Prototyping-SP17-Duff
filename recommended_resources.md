@@ -18,6 +18,7 @@
 _Idea Generation_
 
 *   _Cracking Creativity_ by Michael Michalko
+*   _[Writing for Visual Thinkers: A Guide for Artists and Designers](https://www.amazon.com/Writing-Visual-Thinkers-Artists-Designers/dp/0321767454)_ by Andrea Marks.
 *   _IdeaSpotting: How to Find Your Next Great Idea_ by Sam Harrison
 *   IDEO method cards
 *   _Steal like an Artist_ by Austin Kleon
@@ -48,6 +49,9 @@ Design
 _Ethnography_
 
 *   _Why We Buy: The Science of Shopping_ by Paco Underhill
+*   [AIGA’s Ethnography Primer]([http://www.aiga.org/ethnography-primer/]) (available free online)
+*   [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
+
 
 _Sketching_
 
