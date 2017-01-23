@@ -26,6 +26,7 @@
         <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
         <li>Accept Slack Invitation when received</li> 
         </ul>
+        Class
         <ul>
         <li>Course and Student Introductions</li>
         <li>Overview of Course</li>
@@ -38,6 +39,7 @@
           <li>Journals and Sketchbooks
           <li>Verbal Literacy
           </ul>
+        <li>Watch Video: Finished Not Perfect by Jake Parker</li>
         <li>Phase 1: Discovery / Inspiration / Process:</li>
             <ul>
             <li><a href="input_map.md">Input Maps</a></li>
@@ -72,14 +74,13 @@
       <ul>
       <li>After reading both articles... Between the two articles, Sketching: the Visual Thinking Power Tool and The Miseducation of the Doodle, write on your process website a reading response to the article that resonated with you the most. Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
       </ul>
-<li>Class</li>
-      <ul>
-        <li>Review Readings</li>
-        <li>Review <a href="input_map.md">Input Maps</a></li>
+      </ul>
+Class
+    <ul>
+    <li>Review Homework</li>
+        <li>Pair students for Classmate Discovery</li>
         <ul>
-            <li>Pair students for Classmate Discovery</li>
-            <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
-            </ul>
+        <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
         </ul>
   </ul></td>
     </tr>
@@ -89,9 +90,32 @@
         Homework
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+        <li>Watch the following, write a response, and post to your process website</li>
+  <ul>
+  <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
+  <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
+  <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
+insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
+  </ul>
 
         <li>Phase 1: Discovery / Inspiration</li>
-        <ul><li>Do <strong>at least one</strong> of the following assignments:</li>
+        <ul>
+        <li>Do <strong>at least one</strong> of the following assignments:</li>
+        </ul>
+Write your response to one of the following:
+
+<td>Research one or more of the following artists for inspiration and post your findings and response on your process website:
+<ol>
+<Li>Sherrie Levine</li> 
+<li>Marcel Duchamp</li>
+<li>Joseph Cornell</li>
+<li>Felix Gonzalez-Torrez</li>
+<li>Tectonic Industries</li>
+<li>Douglas Gordon</li>
+<li>Christian Marclay</li>
+<li>DJ Spooky</li>
+<li>The Bomb Squad</li>
+</ol>
 <ol>
 <li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
 <ul>
@@ -108,7 +132,7 @@
         </ul>
         Class
         <ul>
-        <li>Watch Video: Finished Not Perfect by Jake Parker</li>
+        
 <li>Discuss Everything is a Remix</li>
 <li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
 <li>Review Classmate Discoveries</li>
