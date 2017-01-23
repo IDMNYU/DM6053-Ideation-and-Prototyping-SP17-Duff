@@ -143,13 +143,24 @@ Class
         <td><p>Feb 20</p>  
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+        <li>Watch</li>
+            <ul>
+            <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
+            <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
+            <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+            </ul>
         <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
             <ul>
             <li>Individual Annotated Bibliography Draft</li>
             <li>Individual Image or Text Storyboard Draft</li>
             </ul>
         </ul>
-        
+        Class
+        <ul>
+        <li>Discuss Homework</li>
+        <li>Discuss Text vs. Image Storyboard</li>
+        <li>Finalize Teams for <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a></li>
+        </ul>
         </td>
     </tr>
     <tr>
