@@ -20,13 +20,16 @@
         <tr>
         <td>2</td> 
         <td valign="top"><p>Jan 30</p>
+        Homework
         <ul>
-        <li>Read Syllabus and ask Questions about the course and syllabus during our first class</li>
+        <li>Read syllabus and ask questions about the course and syllabus during our first class</li>
         <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
         <li>Accept Slack Invitation when received</li> 
+        </ul>
+        <ul>
         <li>Course and Student Introductions</li>
         <li>Overview of Course</li>
-        <li>Discuss:</li>
+        <li>Discuss</li>
           <ul>
           <li>Word Lists
           <li>Mind Maps
@@ -48,7 +51,9 @@
     <tr>
         <td>3</td>    
         <td><p>Feb 6</p>
+        Homework
         <ul>
+        <li>Complete <a href="input_map.md">Input Maps</a> and post to process website</li>
         <li>Post your <a href="constant_input_choices.md">constant input</a> details (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.)</li>
         <li>Phase 1: Discovery / Inspiration / Process</li>
             <ul>
@@ -70,14 +75,14 @@
 <li>Class</li>
       <ul>
         <li>Review Readings</li>
-        <li>Review Input Maps</li>
+        <li>Review <a href="input_map.md">Input Maps</a></li>
         </ul>
   </ul></td>
     </tr>
     <tr>
         <td>4</td>
         <td><p>Feb 13</p>
-        <a href="week_3_detail.md"></a>
+        Homework
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
 
@@ -99,7 +104,12 @@
             <li>Pair students for Classmate Discovery</li>
             <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
             </ul>
+        
+        </ul>
+        Class
+        <ul>
         <li>Watch Video: Finished Not Perfect by Jake Parker</li>
+        <li>Review Homework</li>
         </ul>
         </td>
     </tr>
