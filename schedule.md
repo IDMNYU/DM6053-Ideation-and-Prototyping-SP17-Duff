@@ -42,7 +42,7 @@
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li>Phase 1: Discovery / Inspiration / Process</li>
             <ul>
-            <li>Personal Inventories</li>
+            <li><a href="personal_inventory.md">Personal Inventories</a></li>
             <li>Write a love letter or breakup letter to your favorite object (DO NOT USE an object from your personal inventory), product, or service.</li>
             <li>Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
         </ul>
