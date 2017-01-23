@@ -112,7 +112,7 @@ Class
                 </li></ol>
                 </ul></ul>
         <li>Research one or more of the following artists for inspiration and post your findings and response on your process website:</li>
-<ol>
+<ul>
 <li>Sherrie Levine</li> 
 <li>Marcel Duchamp</li>
 <li>Joseph Cornell</li>
@@ -122,21 +122,25 @@ Class
 <li>Christian Marclay</li>
 <li>DJ Spooky</li>
 <li>The Bomb Squad</li>
-</ol>
+</ul>
 <li>Phase 3: Design / Sketching / Mapping: <a href="classmate_discovery.md">Classmate Discovery</a></li>
 </ul>
 
 Class
 <ul>        
 <li>Review Homework</li>
-</ul>
-        </ul>
-        </td>
+<li>Brainstorm Creators in order to select teams.</li>
+<li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
+  <ul>
+  <li>Exchange contact info (phone, email, address)</li>
+  <li>Exchange schedules</li>
+  <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery/Trello, etc.)</li>
+  </ul>
+</ul></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><p>Feb 20</p>
-       
+        <td><p>Feb 20</p>  
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
