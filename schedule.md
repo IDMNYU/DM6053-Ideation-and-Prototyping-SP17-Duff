@@ -38,7 +38,6 @@
     <tr>
         <td>3</td>    
         <td><p>Feb 6</p>
-        <a href="week_2_detail.md">
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li>Phase 1: Discovery / Inspiration / Process</li>
@@ -49,7 +48,7 @@
         </ul>
         <li>Post your <a href="process_website.md">process website</a> URL to the ip_fa16 slack channel</li>
         </ul>
-        </a>
+      
         </td>
     </tr>
     <tr>
@@ -60,7 +59,7 @@
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li>Phase 3: Design / Sketching / Mapping: <a href="classmate_discovery.md">Classmate Discovery</a></li>
         <li>Phase 1: Discovery / Inspiration</li>
-        <ul><li>Do at least one of the following assignments:</li>
+        <ul><li>Do **at least one** of the following assignments:</li>
 <ol>
 <li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
 <ul>
@@ -76,7 +75,7 @@
     <tr>
         <td>5</td>
         <td><p>Feb 20</p>
-        <a href="week_4_detail.md">
+       
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
@@ -85,13 +84,13 @@
             <li>Individual Image or Text Storyboard Draft</li>
             </ul>
         </ul>
-        </a>
+        
         </td>
     </tr>
     <tr>
         <td>6</td>    
         <td><p>Feb 27</p>
-        <a href="week_5_detail.md">
+        
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
@@ -100,13 +99,13 @@
         <li>Team Image or Text Storyboard Draft</li>
         <li>(if applicable) Animatic Draft</li>
         </ul>
-        </ul></a>
+        </ul>
         </td>
     </tr>
     <tr>
         <td>7</td>     
         <td><p>Mar 6</p>
-        <a href="week_6_detail.md">
+      
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
@@ -116,7 +115,7 @@
         <li>(if applicable) Hybrid Animatic / Video Draft</li>
         </ul>
         </ul>
-        </a>
+     
         </td>
     </tr>
     <tr>
@@ -135,7 +134,7 @@
     <tr>
         <td>9</td>      
         <td><p>Mar 20</p>
-        <a href="week_8_detail.md">
+        
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <strong><li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
@@ -148,7 +147,7 @@
             <li>Ideation</li></ul>
             </ul>
         </ul>
-        </a>
+      
         </td>
     </tr>
    <tr>
@@ -157,7 +156,7 @@
     <tr>
         <td>10</td>     
         <td><p>Mar 27</p>
-        <a href="week_9_detail.md">
+      
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
@@ -168,13 +167,13 @@
         <li>Secondary Research</li>
         </ul>
         </ul>
-        </a>
+      
         </td>
     </tr>
     <tr>
         <td>11</td>   
         <td><p>Apr 3</p>
-        <a href="week_10_detail.md">
+        
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
         <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
@@ -183,7 +182,7 @@
         <li>(OPTIONAL) Lo-fi Prototype Draft</li>
         </ul>
         </ul>
-        </a></td>
+        </td>
     </tr>
     <tr>
         <td>12</td>   
