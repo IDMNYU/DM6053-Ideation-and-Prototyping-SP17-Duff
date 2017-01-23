@@ -23,13 +23,23 @@
         <ul>
         <li>Read Syllabus and ask Questions about the course and syllabus during our first class</li>
         <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
+        <li>Accept Slack Invitation when received</li> 
         <li>Course and Student Introductions</li>
         <li>Overview of Course</li>
+        <li>Discuss:</li>
+          <ul>
+          <li>Word Lists
+          <li>Mind Maps
+          <li>Concept Maps
+          <li>Freewriting
+          <li>Journals and Sketchbooks
+          <li>Verbal Literacy
+          </ul>
         <li>Phase 1: Discovery / Inspiration / Process:</li>
             <ul>
             <li><a href="input_map.md">Input Maps</a></li>
             </ul>
-        <li>Accept Slack Invitation when received</li>    
+           
   </ul></td>
     </tr>
     <tr>
@@ -43,6 +53,7 @@
         <li>Phase 1: Discovery / Inspiration / Process</li>
             <ul>
             <li><a href="personal_inventory.md">Personal Inventories</a></li>
+            <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
             <li>Write a love letter or breakup letter to your favorite object (DO NOT USE an object from your personal inventory), product, or service.</li>
             <li>Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
         </ul>
@@ -57,9 +68,9 @@
         <a href="week_3_detail.md"></a>
         <ul>
         <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-        <li>Phase 3: Design / Sketching / Mapping: <a href="classmate_discovery.md">Classmate Discovery</a></li>
+
         <li>Phase 1: Discovery / Inspiration</li>
-        <ul><li>Do **at least one** of the following assignments:</li>
+        <ul><li>Do <strong>at least one</strong> of the following assignments:</li>
 <ol>
 <li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
 <ul>
@@ -69,7 +80,11 @@
 <li>For 3 to 5 days, record, snap, write down no less than 20 things each day that reveal themselves as appropriation material.</li>
 <ul><li>Pick one of these and use the SCAMPER Technique to come up with ideas for creating something new from each one.</li></ul>
 <li>Find 4-5 simple objects on the street, in a room, or in a drawer, etc. Place them in new contexts, combine them, play with them, misuse them -- What new ideas are suggested? Document on your process website.</li></ol> 
-        </ul></ul>
+        </ul>
+        <li>Phase 3: Design / Sketching / Mapping: <a href="classmate_discovery.md">Classmate Discovery</a></li>
+            <ul>
+            <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
+            </ul></ul>
         </td>
     </tr>
     <tr>
