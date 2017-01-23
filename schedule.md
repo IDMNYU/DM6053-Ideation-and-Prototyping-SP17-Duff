@@ -97,14 +97,10 @@ Class
   <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
 insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
   </ul>
-
-        <li>Phase 1: Discovery / Inspiration</li>
+<li>Phase 1: Discovery / Inspiration</li>
         <ul>
         <li>Do <strong>at least one</strong> of the following assignments:</li>
-        </ul>
-
-
-
+        
 <ol>
 <li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
 <ul>
@@ -127,13 +123,11 @@ insights that occurred while watching, how it reflects your own process (or does
 <li>DJ Spooky</li>
 <li>The Bomb Squad</li>
 </ol>
-        <li>Phase 3: Design / Sketching / Mapping: <a href="classmate_discovery.md">Classmate Discovery</a></li>
-            
-        
-        </ul>
-        Class
-        <ul>
-        
+<li>Phase 3: Design / Sketching / Mapping: <a href="classmate_discovery.md">Classmate Discovery</a></li>
+</ul>
+
+Class
+<ul>        
 <li>Discuss Everything is a Remix</li>
 <li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
 <li>Review Classmate Discoveries</li>
