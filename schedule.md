@@ -104,9 +104,9 @@ insights that occurred while watching, how it reflects your own process (or does
         </ul>
 Write your response to one of the following:
 
-<td>Research one or more of the following artists for inspiration and post your findings and response on your process website:
+<li>Research one or more of the following artists for inspiration and post your findings and response on your process website:</li>
 <ol>
-<Li>Sherrie Levine</li> 
+<li>Sherrie Levine</li> 
 <li>Marcel Duchamp</li>
 <li>Joseph Cornell</li>
 <li>Felix Gonzalez-Torrez</li>
