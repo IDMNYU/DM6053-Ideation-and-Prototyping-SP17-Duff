@@ -32,14 +32,13 @@
         <li>Overview of Course</li>
         <li>Discuss</li>
           <ul>
-          <li>Word Lists
-          <li>Mind Maps
-          <li>Concept Maps
-          <li>Freewriting
-          <li>Journals and Sketchbooks
-          <li>Verbal Literacy
+          <li>Word Lists</li>
+          <li>Mind Maps</li>
+          <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
+          <li>Freewriting (Similar to Journal writing but focuses on a specific idea or question.)</li>
+          <li>Journals and Sketchbooks</li>
           </ul>
-        <li>Watch Video: Finished Not Perfect by Jake Parker</li>
+        <li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker</li>
         <li>Phase 1: Discovery / Inspiration / Process:</li>
             <ul>
             <li><a href="input_map.md">Input Maps</a></li>
@@ -48,7 +47,7 @@
   </ul></td>
     </tr>
     <tr>
-<td><td><strong><p>Feb 4 (Sun)</p><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td>
+<td><td><strong><p>Feb 5 (Sun)</p><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td>
     </tr>
     <tr>
         <td>3</td>    
