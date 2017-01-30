@@ -3,14 +3,14 @@
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2016 
+    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2017 
     Mondays • 6:30PM-9:20PM • 2MTC MAGNET 811 • 3 credit hrs
     Office hours by appointment (https://calendly.com/deangela) or directly after class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
     
     Prerequisite: None
 
-####Gitbook Repository: TBD
+####Gitbook Repository: https://deangela.gitbooks.io/dm-6053-ideation-and-prototyping-spring-2017/content/
 
 ####Course Management Site: http://bxmc.slack.com 
 
