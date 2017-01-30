@@ -11,7 +11,7 @@
 <li>Letter or Video To Next Cohort</li>
 </ol>
  
-##Create a google drive folder, I&P Fall 2016 and share with deangela.duff@nyu.edu
+##Create a google drive folder, I&P Spring 2017 and share with deangela.duff@nyu.edu
 
 with the following files and 
 <ul>
