@@ -10,7 +10,7 @@
     
     Prerequisite: None
 
-####Gitbook Repository: TBD
+####Gitbook Repository: https://deangela.gitbooks.io/dm-6053-ideation-and-prototyping-spring-2017/content/
 
 ####Course Management Site: http://bxmc.slack.com 
 
