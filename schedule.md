@@ -36,7 +36,8 @@
           <li>Mind Maps</li>
           <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
           <li>Freewriting (Similar to Journal writing but focuses on a specific idea or question.)</li>
-          <li>Journals and Sketchbooks</li>
+          <li>Journals and Sketchbooks.</li>
+          <li>The following are recommended journals and planners. NOT Required</li>
           <ul>
           <li><a href="https://inkandvolt.com/product/volt-planner/" target="_blank">Ink and Volt Planner</a></li>
           <li><a href="https://www.intelligentchange.com/products/the-five-minute-journal" target="_blank">Five Minute Journal</a></li>
@@ -65,8 +66,7 @@
             <ul>
             <li><a href="personal_inventory.md">Personal Inventories</a></li>
             <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
-            <li>Write a love letter or breakup letter to your favorite object (DO NOT USE an object from your personal inventory), product, or service.</li>
-            <li>Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
+            <li>Write a <strong>love letter or breakup letter</strong> to your favorite object (DO NOT USE an object from your personal inventory), product, or service.</li>
         </ul>
         <li>Post your <a href="process_website.md">process website</a> URL to the ip_fa16 slack channel</li>
         <li>Read</li>
