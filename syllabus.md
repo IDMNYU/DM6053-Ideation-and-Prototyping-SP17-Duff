@@ -113,6 +113,9 @@ There will be discrete team and individual exercises and projects that require y
 *   Storytelling, engaging, communicating, selling
 
 
+### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
+* Direct message me on slack re: contact about logistics (when, where, how many?) ONLY
+* Talk to me in person directly after class or [set up an appointment](https://calendly.com/deangela) about issues and problems. DO NOT direct message long conversations. (If your direct message turns into paragraphs that means you should be talking to me in person not direct messaging me.)
 
 ### STUDENT RESPONSIBILITIES
 
@@ -125,8 +128,6 @@ There will be discrete team and individual exercises and projects that require y
 * Acquire and read all assigned readings before they are due
 * Action – do your absolute best
 * Strive for continuous improvement
-* Direct message me on slack re: contact about logistics (when, where, how many?) only
-* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have patience, persistence, and discipline 
 * Be creative

@@ -281,7 +281,7 @@
     <td valign="top">Review Homework</td> 
     <td valign="top">
     <ul>
-    li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
     <ul>
     <li>Lo-fi Prototype Draft</li>
