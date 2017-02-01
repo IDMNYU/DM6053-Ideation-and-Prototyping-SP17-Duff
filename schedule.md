@@ -10,10 +10,10 @@
 <tr>
     <th width="4%">wk</th>
     <th width="48%">Class</th>
-    <th>Homework (Due on Date Listed)</th>
+    <th width="48%">Homework (Due on Date Listed)</th>
 </tr>
 <tr>
-    <td>1<p>Jan 23</p></td>
+    <td>wk 1<p>Jan 23</p></td>
     <td><i>NO CLASS Professor at conference</i></td>
     <td></td>
 </tr>
@@ -46,11 +46,11 @@
 </tr>
 <tr>
 <td><p>Feb 5 (Sun)</p></td>
-<td><td><strong><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td>
+<td><strong><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td><td></td>
 </tr>
 <tr>
-    <td>3<p>Feb 6</p></td>
-    <td>
+    <td>wk 3<p>Feb 6</p></td>
+    <td valign="top">
 <ul>
 <li>Review Homework</li>
 <li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
@@ -59,7 +59,7 @@
     <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
     </ul>
 </ul></td>  
-    <td>
+    <td valign="top">
     <ul>
     <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website</li>
     <li>Post your <a href="constant_input_choices.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.)</li>
@@ -80,7 +80,7 @@
 </td>
 </tr>
 <tr>
-    <td>4<p>Feb 13</p></td>
+    <td>wk 4<p>Feb 13</p></td>
     <td>
     <ul>        
     <li>Review Homework</li>
@@ -126,7 +126,7 @@
 </td>
 </tr>
 <tr>
-    <td>5<p>Feb 20</p></td>
+    <td>wk 5<p>Feb 20</p></td>
     <td>
     <ul>
     <li>Review Homework</li>
@@ -151,7 +151,7 @@
     </td>
 </tr>
 <tr>
-    <td>6 <p>Feb 27</p></td>    
+    <td>wk 6 <p>Feb 27</p></td>    
     <td>Review Homework</td>
     <td>
     <ul>
@@ -167,7 +167,7 @@
     </td>
 </tr>
 <tr>
-    <td>7<p>Mar 6</p></td>     
+    <td>wk 7<p>Mar 6</p></td>     
     <td>Review Homework</td>
     <td>
     <ul>
@@ -182,7 +182,7 @@
     </td>
 </tr>
 <tr>
-    <td>8<p>Mar 13</p></td>     
+    <td>wk 8<p>Mar 13</p></td>     
     <td>Review Homework</td>
     <td valign="top">
     <ul>
@@ -196,7 +196,7 @@
     </td>
 </tr>
 <tr>
-    <td>9<p>Mar 20</p></td>      
+    <td>wk 9<p>Mar 20</p></td>      
     <td>Midterm Class Critique</td>
     <td>
     <ul>
@@ -217,7 +217,7 @@
 <td>Mar 31 (Fri)</td><td><strong><p></p><i>Last Day to Withdraw</i></strong></td></td>
 </tr>
 <tr>
-    <td>10<p>Mar 27</p></td>
+    <td>wk 10<p>Mar 27</p></td>
     <td>Review Homework</td>    
     <td>
     <ul>
@@ -247,7 +247,7 @@
     </td>
 </tr>
 <tr>
-    <td>11<p>Apr 3</p></td> 
+    <td>wk 11<p>Apr 3</p></td> 
     <td>Review Homework</td>  
     <td>      
     <ul>
@@ -261,7 +261,7 @@
     </td>
 </tr>
 <tr>
-    <td>12<p>Apr 10</p></td>
+    <td>wk 12<p>Apr 10</p></td>
     <td>Review Homework</td>   
     <td>
     <ul>
@@ -275,7 +275,7 @@
     </td>
 </tr>
 <tr>
-    <td>13<p>Apr 17</p></td>
+    <td>wk 13<p>Apr 17</p></td>
     <td>Review Homework</td> 
     <td>
     <ul>
@@ -287,7 +287,7 @@
     </td>
 </tr>
 <tr>
-    <td>14<p>Apr 24</p></td>
+    <td>wk 14<p>Apr 24</p></td>
     <td>Review Homework</td>   
     <td>
     <ul>
@@ -297,7 +297,7 @@
     </ul></ul></td>
 </tr>
 <tr>
-    <td>15<p>May 1</p></td>     
+    <td>wk 15<p>May 1</p></td>     
     <td>Review Homework</td>
     <td>
     <ul>
@@ -307,7 +307,7 @@
     </ul></ul></td>
 </tr>
 <tr>
-    <td>16<p>May 8</p></td>
+    <td>wk 16<p>May 8</p></td>
     <td>Final Class Critique</td>
     <td><strong>
     <ul>
