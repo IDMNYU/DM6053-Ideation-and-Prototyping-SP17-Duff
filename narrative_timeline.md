@@ -1,9 +1,9 @@
 ### DM-GY 6053 Ideation and Prototyping
 ##### Spring 2017 • De Angela L. Duff • Mondays • 6:30-9:20pm • 2MTC MAGNET 811
 
-# Narrative Timeline
+# Narrative Timeline of Influences
 
-*Make sure you watch Everything Is A Remix before embarking on this assignment.*
+*Make sure you watch <a href="http://everythingisaremix.info/watch-the-series" target="_blank">Everything Is A Remix</a> before embarking on this assignment.*
 
 Create a narrative timeline thread of influences by either creating: 
 *	another video documentary 1 to 3 minutes in length, post on vimeo or youtube, and embed on your process website **OR** 
