@@ -191,21 +191,12 @@
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 8<p>Mar 13</p></td>     
-    <td valign="top">Review Homework</td>
-    <td valign="top">
-    <ul>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
-        <ul>
-        <li>Paper Draft</li>
-        <li>Hybrid Animatic / Video Draft</li>
-        </ul>
-    </ul>
-    </td>
+    <td valign="top"><p>Mar 13 (Mon)</p></td>     
+    <td valign="top"><strong><i>NO CLASS NYU Spring Break</i></strong></td>
+    <td valign="top"></td>
 </tr>
 <tr>
-    <td valign="top">wk 9<p>Mar 20</p></td>      
+    <td valign="top">wk 8<p>Mar 20</p></td>      
     <td valign="top">Midterm Class Critique</td>
     <td valign="top">
     <ul>
@@ -228,7 +219,7 @@
     <td></td>
 </tr>
 <tr>
-    <td valign="top">wk 10<p>Mar 27</p></td>
+    <td valign="top">wk 9<p>Mar 27</p></td>
     <td valign="top">Review Homework</td>    
     <td valign="top">
     <ul>
@@ -258,7 +249,7 @@
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 11<p>Apr 3</p></td> 
+    <td valign="top">wk 10<p>Apr 3</p></td> 
     <td valign="top">Review Homework</td>  
     <td valign="top">      
     <ul>
@@ -272,7 +263,7 @@
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 12<p>Apr 10</p></td>
+    <td valign="top">wk 11<p>Apr 10</p></td>
     <td valign="top">Review Homework</td>   
     <td valign="top">
     <ul>
@@ -286,7 +277,7 @@
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 13<p>Apr 17</p></td>
+    <td valign="top">wk 12<p>Apr 17</p></td>
     <td valign="top">Review Homework</td> 
     <td valign="top">
     <ul>
@@ -298,7 +289,7 @@
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 14<p>Apr 24</p></td>
+    <td valign="top">wk 13<p>Apr 24</p></td>
     <td valign="top">Review Homework</td>   
     <td valign="top">
     <ul>
@@ -308,7 +299,7 @@
     </ul></ul></td>
 </tr>
 <tr>
-    <td valign="top">wk 15<p>May 1</p></td>     
+    <td valign="top">wk 14<p>May 1</p></td>     
     <td valign="top">Review Homework</td>
     <td valign="top">
     <ul>
@@ -318,7 +309,7 @@
     </ul></ul></td>
 </tr>
 <tr>
-    <td valign="top">wk 16<p>May 8</p></td>
+    <td valign="top">wk 15<p>May 8</p></td>
     <td valign="top">Final Class Critique</td>
     <td valign="top"><strong>
     <ul>
