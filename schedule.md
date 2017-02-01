@@ -52,6 +52,7 @@
     <td valign="top">wk 3<p>Feb 6</p></td>
     <td valign="top">
 <ul>
+<li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a> &amp; <a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
 <li>Review Homework</li>
 <li>Discuss<li> 
     <ul>
