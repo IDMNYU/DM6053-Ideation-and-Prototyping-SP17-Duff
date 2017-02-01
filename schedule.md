@@ -14,11 +14,11 @@
 </tr>
 <tr>
     <td valign="top">wk 1<p>Jan 23</p></td>
-    <td valign="top"><i>NO CLASS Professor at conference</i></td>
+    <td valign="top"><strong><i>NO CLASS Professor at conference</i></strong></td>
     <td valign="top"></td>
 </tr>
     <tr>
-    <td valign="top">2<p>Jan 30</p></td>
+    <td valign="top">wk 2<p>Jan 30</p></td>
     <td valign="top">Class
     <ul>
     <li>Overview of Course</li>
@@ -28,8 +28,8 @@
       <li>Word Lists</li>
       <li>Mind Maps</li>
       <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
-      <li>Freewriting (Similar to Journal writing but focuses on a specific idea or question.)</li>
       <li><a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a></li>
+      <li><a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
       </ul>
     <li>Phase 1: Discovery / Inspiration / Process:</li>
         <ul>
@@ -38,7 +38,7 @@
        </ul></td> 
     <td valign="top">
     <ul>
-    <li>Read syllabus and ask questions about the course and syllabus during our first class</li>
+    <li>Read syllabus and be prepared to ask questions about the course and syllabus during our first class</li>
     <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
     <li>Accept Slack Invitation when received</li> 
     </ul>
@@ -53,8 +53,12 @@
     <td valign="top">
 <ul>
 <li>Review Homework</li>
-<li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
-    <li>Pair students for Classmate Discovery</li>
+<li>Discuss<li> 
+    <ul>
+    <li>Freewriting (Similar to Journal writing but focuses on a specific idea or question.)</li>
+    <li><a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
+    </ul>
+<li>Pair students for <a href="classmate_discovery.md">Classmate Discovery</a></li>
     <ul>
     <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
     </ul>
@@ -74,7 +78,7 @@
 <ul>
 <li>Rohde, Mike. “<a href="http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/">Sketching: the Visual Thinking Power Tool.</a>” A List Apart. January 25, 2011. </li>
 <li>Brown, Sunni. “<a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/" target="_blank">The Miseducation of the Doodle.</a>” A List Apart. January 25, 2011. </li>
-  <li>After reading both articles... Between the two articles, Sketching: the Visual Thinking Power Tool and The Miseducation of the Doodle, write on your process website a reading response to the article that resonated with you the most. Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+  <li>After reading both articles... Between the two articles, write a reading response on your process website about the article that resonated with you the most. Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
   </ul>
   </ul>
 </td>
