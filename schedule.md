@@ -54,7 +54,7 @@
 <ul>
 <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a> &amp; <a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
 <li>Review Homework</li>
-<li>Discuss<li> 
+<li>Discuss</li> 
     <ul>
     <li>Freewriting (Similar to Journal writing but focuses on a specific idea or question.)</li>
     <li><a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
