@@ -78,7 +78,10 @@
 <ul>
 <li>Rohde, Mike. “<a href="http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/">Sketching: the Visual Thinking Power Tool.</a>” A List Apart. January 25, 2011. </li>
 <li>Brown, Sunni. “<a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/" target="_blank">The Miseducation of the Doodle.</a>” A List Apart. January 25, 2011. </li>
-  <li>After reading both articles... Between the two articles, write a reading response on your process website about the article that resonated with you the most. Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+  <li>After reading both articles, write a reading response on your process website about the article that resonated with you the most.</li>
+      <ul>
+      <li>Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+      </ul>
   </ul>
   </ul>
 </td>
@@ -105,7 +108,7 @@
       <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
       <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
       </ul>
-     <li>(OPTIONAL) Read <strong>Steal Like An Artist< by Austin Kleon, write a response, and post to your process website.</li>
+     <li>(OPTIONAL) Read <strong>Steal Like An Artist</strong> by Austin Kleon, write a response, and post to your process website.</li>
       <ul>
       <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
       </ul>
