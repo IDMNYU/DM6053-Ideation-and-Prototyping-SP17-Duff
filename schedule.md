@@ -13,13 +13,13 @@
     <th width="48%">Homework (Due on Date Listed)</th>
 </tr>
 <tr>
-    <td>wk 1<p>Jan 23</p></td>
-    <td><i>NO CLASS Professor at conference</i></td>
-    <td></td>
+    <td valign="top">wk 1<p>Jan 23</p></td>
+    <td valign="top"><i>NO CLASS Professor at conference</i></td>
+    <td valign="top"></td>
 </tr>
     <tr>
-    <td>2<p>Jan 30</p></td>
-    <td>Class
+    <td valign="top">2<p>Jan 30</p></td>
+    <td valign="top">Class
     <ul>
     <li>Overview of Course</li>
     <li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker</li>
@@ -45,11 +45,11 @@
     </td>
 </tr>
 <tr>
-<td><p>Feb 5 (Sun)</p></td>
-<td><strong><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td><td></td>
+<td valign="top"><p>Feb 5 (Sun)</p></td>
+<td valign="top"><strong><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td><td valign="top"></td>
 </tr>
 <tr>
-    <td>wk 3<p>Feb 6</p></td>
+    <td valign="top">wk 3<p>Feb 6</p></td>
     <td valign="top">
 <ul>
 <li>Review Homework</li>
@@ -80,8 +80,8 @@
 </td>
 </tr>
 <tr>
-    <td>wk 4<p>Feb 13</p></td>
-    <td>
+    <td valign="top">wk 4<p>Feb 13</p></td>
+    <td valign="top">
     <ul>        
     <li>Review Homework</li>
     <li>Brainstorm Creators in order to select and finalize teams.</li>
@@ -92,8 +92,8 @@
       <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery vs. Trello, etc.)</li>
       </ul>
     </ul></td>
-    <td>
-    <td>
+    <td valign="top">
+    <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li>Watch the following, write a response, and post to your process website</li>
@@ -126,14 +126,14 @@
 </td>
 </tr>
 <tr>
-    <td>wk 5<p>Feb 20</p></td>
-    <td>
+    <td valign="top">wk 5<p>Feb 20</p></td>
+    <td valign="top">
     <ul>
     <li>Review Homework</li>
     <li>Discuss Text vs. Image Storyboard</li>
     </ul>
     </td>
-    <td> 
+    <td valign="top"> 
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li>Watch</li>
@@ -151,9 +151,9 @@
     </td>
 </tr>
 <tr>
-    <td>wk 6 <p>Feb 27</p></td>    
-    <td>Review Homework</td>
-    <td>
+    <td valign="top">wk 6 <p>Feb 27</p></td>    
+    <td valign="top">Review Homework</td>
+    <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments.</li>
@@ -167,9 +167,9 @@
     </td>
 </tr>
 <tr>
-    <td>wk 7<p>Mar 6</p></td>     
-    <td>Review Homework</td>
-    <td>
+    <td valign="top">wk 7<p>Mar 6</p></td>     
+    <td valign="top">Review Homework</td>
+    <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
@@ -182,8 +182,8 @@
     </td>
 </tr>
 <tr>
-    <td>wk 8<p>Mar 13</p></td>     
-    <td>Review Homework</td>
+    <td valign="top">wk 8<p>Mar 13</p></td>     
+    <td valign="top">Review Homework</td>
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
@@ -196,9 +196,9 @@
     </td>
 </tr>
 <tr>
-    <td>wk 9<p>Mar 20</p></td>      
-    <td>Midterm Class Critique</td>
-    <td>
+    <td valign="top">wk 9<p>Mar 20</p></td>      
+    <td valign="top">Midterm Class Critique</td>
+    <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <strong><li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
@@ -214,12 +214,12 @@
     </td>
 </tr>
 <tr>
-<td>Mar 31 (Fri)</td><td><strong><p></p><i>Last Day to Withdraw</i></strong></td></td>
+<td valign="top">Mar 31 (Fri)</td><td valign="top"><strong><p></p><i>Last Day to Withdraw</i></strong></td></td>
 </tr>
 <tr>
-    <td>wk 10<p>Mar 27</p></td>
-    <td>Review Homework</td>    
-    <td>
+    <td valign="top">wk 10<p>Mar 27</p></td>
+    <td valign="top">Review Homework</td>    
+    <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li>Watch <a href="https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008" target="_blank">Ira Glass on storytelling (all 4 parts)</a> and write a response to Ira Glass on Storytelling and post on your process website. Do not write a summary. In other words, do not regurgitate what he says. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
@@ -247,9 +247,9 @@
     </td>
 </tr>
 <tr>
-    <td>wk 11<p>Apr 3</p></td> 
-    <td>Review Homework</td>  
-    <td>      
+    <td valign="top">wk 11<p>Apr 3</p></td> 
+    <td valign="top">Review Homework</td>  
+    <td valign="top">      
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
@@ -261,9 +261,9 @@
     </td>
 </tr>
 <tr>
-    <td>wk 12<p>Apr 10</p></td>
-    <td>Review Homework</td>   
-    <td>
+    <td valign="top">wk 12<p>Apr 10</p></td>
+    <td valign="top">Review Homework</td>   
+    <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
@@ -275,9 +275,9 @@
     </td>
 </tr>
 <tr>
-    <td>wk 13<p>Apr 17</p></td>
-    <td>Review Homework</td> 
-    <td>
+    <td valign="top">wk 13<p>Apr 17</p></td>
+    <td valign="top">Review Homework</td> 
+    <td valign="top">
     <ul>
     li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
@@ -287,9 +287,9 @@
     </td>
 </tr>
 <tr>
-    <td>wk 14<p>Apr 24</p></td>
-    <td>Review Homework</td>   
-    <td>
+    <td valign="top">wk 14<p>Apr 24</p></td>
+    <td valign="top">Review Homework</td>   
+    <td valign="top">
     <ul>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
     <ul>
@@ -297,9 +297,9 @@
     </ul></ul></td>
 </tr>
 <tr>
-    <td>wk 15<p>May 1</p></td>     
-    <td>Review Homework</td>
-    <td>
+    <td valign="top">wk 15<p>May 1</p></td>     
+    <td valign="top">Review Homework</td>
+    <td valign="top">
     <ul>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
     <ul>
@@ -307,17 +307,17 @@
     </ul></ul></td>
 </tr>
 <tr>
-    <td>wk 16<p>May 8</p></td>
-    <td>Final Class Critique</td>
-    <td><strong>
+    <td valign="top">wk 16<p>May 8</p></td>
+    <td valign="top">Final Class Critique</td>
+    <td valign="top"><strong>
     <ul>
     <li><a href="future.md">Future Dystopia / Utopia Project DUE</a></li>
     </ul></strong>
     </td>
 </tr>
 <tr>
-<td></td>
-<td><strong><p>May 9 (Tue), May 10 (Wed), May 11 (Thu), or May 12 (Fri)</p>Final one on one appointments
+<td valign="top"></td>
+<td valign="top"><strong><p>May 9 (Tue), May 10 (Wed), May 11 (Thu), or May 12 (Fri)</p>Final one on one appointments
 <ul>
 <li>Schedule at <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
 <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a></li>
