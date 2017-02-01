@@ -6,9 +6,9 @@
 **All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
 
 *Gitbook & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during class.*
-<table>
+<table width="100%">
 <tr>
-    <th width="4%">wk</th>
+    <th width="2%">wk</th>
     <th width="48%">Class</th>
     <th width="48%">Homework (Due on Date Listed)</th>
 </tr>
