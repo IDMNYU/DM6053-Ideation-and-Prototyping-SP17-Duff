@@ -107,7 +107,7 @@
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li>Watch the following, write a response, and post to your process website</li>
       <ul>
-      <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
+      <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a></li>  
       <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
       <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
       </ul>
@@ -115,9 +115,7 @@
       <ul>
       <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
       </ul>
-    <li>Phase 1: Discovery / Inspiration</li>
-        <ul>
-        <li>Research one or more of the following artists for inspiration and post your findings and response on your process website:</li>
+    <li>Phase 1: Discovery / Inspiration - Research one or more of the following artists for inspiration and post your findings and response on your process website:</li>
 <ul>
 <li>Sherrie Levine</li> 
 <li>Marcel Duchamp</li>
