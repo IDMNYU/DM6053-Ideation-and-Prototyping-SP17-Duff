@@ -213,7 +213,9 @@
     </td>
 </tr>
 <tr>
-<td valign="top">Mar 31 (Fri)</td><td valign="top"><strong><p></p><i>Last Day to Withdraw</i></strong></td></td>
+    <td valign="top">Mar 31 (Fri)</td>
+    <td valign="top"><strong><p></p><i>Last Day to Withdraw</i></strong></td>
+    <td></td>
 </tr>
 <tr>
     <td valign="top">wk 10<p>Mar 27</p></td>
@@ -315,13 +317,14 @@
     </td>
 </tr>
 <tr>
-<td valign="top"></td>
-<td valign="top"><strong><p>May 9 (Tue), May 10 (Wed), May 11 (Thu), or May 12 (Fri)</p>Final one on one appointments
-<ul>
-<li>Schedule at <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
-<li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a></li>
-</ul></strong></td>
-
+    <td valign="top"></td>
+    <td valign="top"><strong><p>May 9 (Tue), May 10 (Wed), May 11 (Thu), or May 12 (Fri)</p> Final one on one appointments
+        <ul>
+        <li>Schedule at <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
+        <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a></li>
+        </ul></strong>
+    </td>
+    <td></td>
 </tr>
 </table>
 
