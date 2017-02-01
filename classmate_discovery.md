@@ -3,7 +3,7 @@
 
 # Classmate Discovery
 
-Using your classmate's 3 personal objects, input map, days in the life... media study, constant input choices assignments and social media presences, supplemented with an interview, questionnaire, or survey, **create a visual map that represents a classmates’ background, training, discipline, personal circumstances that led them to where they are today and where they are going.** Show cross-references. 
+Using your classmate's 3 personal objects, input map, constant input choices assignments and social media presences, supplemented with an interview, questionnaire, or survey, **create a visual map that represents a classmates’ background, training, discipline, and personal circumstances that led them to where they are today and where they are going.** Show cross-references. 
 
 You pick the form or metaphor (NOT limited to): 
 * a subway map, 
