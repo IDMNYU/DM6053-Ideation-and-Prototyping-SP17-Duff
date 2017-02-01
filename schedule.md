@@ -93,7 +93,6 @@
       </ul>
     </ul></td>
     <td valign="top">
-    <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li>Watch the following, write a response, and post to your process website</li>
