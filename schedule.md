@@ -75,7 +75,7 @@
         <ul>
         <li><a href="personal_inventory.md">Personal Inventories</a></li>
         <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
-        <li>Write a <strong>love letter or breakup letter</strong> to your favorite object (DO NOT USE an object from your personal inventory), product, or service.</li>
+        <li>Write a <strong>love letter or breakup letter</strong> to your favorite object (DO NOT USE an object from your personal inventory), product, or service, and post it on your process website.</li>
     </ul>
     <li>Post your <a href="process_website.md">process website</a> URL to the ip_fa16 slack channel</li>
     <li>Read</li>
