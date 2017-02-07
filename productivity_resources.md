@@ -40,8 +40,6 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [5 Pomodoro Timer Extensions For Google Chrome](http://www.ilovefreesoftware.com/05/featured/pomodoro-timer-extensions-google-chrome.html)
 
-* [PomodoroFox](https://addons.mozilla.org/en-US/firefox/addon/pomodorofox)
-
 *Managing Energy, Not Time*
 * [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal by Jim Loehr & Tony Schwartz](http://www.amazon.com/The-Power-Full-Engagement-Performance/dp/0743226755/ref=sr_1_5?ie=UTF8&qid=1358355636&sr=8-5&keywords=tony+schwartz)
 
