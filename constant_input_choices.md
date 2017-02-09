@@ -37,5 +37,6 @@ What’s new and different in your life in the following categories? Why does it
     *   [Nicole Meyer’s A logo a day for branding 10,000 lakes](http://www.psfk.com/2011/09/branding-10000-lakes-one-minnesota-lake-one-logo-every-day.html)
     *   [Terry Difileliciantonio’s 15 weeks of games](https://15weeksofgames.wordpress.com/)
     *   [Dear Data](http://www.dear-data.com/theproject) by Giorgia Lupi and Stefanie Posavec
+    * [From Personal Project to a 40-Book Cover Commission](http://99u.com/articles/53891/from-personal-project-to-a-40-book-cover-commission)
     
 **Also remember it does NOT have to be digital or visual.** It could be aural (i.e. music or soundscapes), culinary, etc. etc. times a gazillion possibilities. **The main requirement is that it is a creative project.**
