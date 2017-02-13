@@ -4,11 +4,11 @@
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
 * Assignments
-    * [Constant Input Choices](constant_input_choices.md)
     * [Inputs Map](input_map.md)
+    * [Constant Input Choices](constant_input_choices.md) 
     * [Personal Inventory](personal_inventory.md)
-    * [Days in the Life of ... Media Study](days_in_the_life_of_media_study.md)
     * [Classmate Discovery](classmate_discovery.md)
+    * [Narrative Timeline](narrative_timeline.md)
     * [Notebook or Sketchbook](notebook_or_sketchbook.md)
     * [Process Website](process_website.md)
     * [Self Assessments](self_assessments.md)
@@ -18,5 +18,7 @@
     * [Future Dystopia Utopia Project](future.md)
 * [Printed Assignment Guidelines](printed_assignment_guidelines.md)
 * [Recommended Resources](recommended_resources.md)
+    * [Recommended Journals and Planners](recommended_journals_and_planners.md)
+    * [Productivity Resources](productivity_resources.md)
 * [End of Semester Deliverables](end-of-semester-deliverables.md)
 
