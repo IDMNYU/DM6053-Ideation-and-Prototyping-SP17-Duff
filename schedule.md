@@ -58,7 +58,7 @@
 <li>Discuss</li> 
     <ul>
     <li>Freewriting (Similar to Journal writing but focuses on a specific idea or question.)</li>
-    <li><a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
+    
     <li><a href="notebook_or_sketchbook.md">Notebooks and Journals</a></li>
     <li><a href="recommended_resources.md">Recommended Resources</a></li>
     </ul>
@@ -93,7 +93,10 @@
 <tr>
     <td valign="top">wk 4<p>Feb 13</p></td>
     <td valign="top">
-    <ul>        
+    <ul>
+    <li>Discuss President's Day</li>
+    <li>Discuss Text vs. Image Storyboard</li>
+    <li><a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>      
     <li>Review Homework</li>
     <li>Brainstorm Creators in order to select and finalize teams.</li>
     <li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
@@ -135,12 +138,7 @@
 </tr>
 <tr>
     <td valign="top">wk 5<p>Feb 20</p></td>
-    <td valign="top">
-    <ul>
-    <li>Review Homework</li>
-    <li>Discuss Text vs. Image Storyboard</li>
-    </ul>
-    </td>
+    <td valign="top"><strong><i>NO CLASSES for NYU. President's Day</i></strong></td>
     <td valign="top"> 
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
